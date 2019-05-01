@@ -2,7 +2,8 @@
 using DevHobby.BLL;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace DevHobbyBllTesty
+namespace DevHobby.Bll.Tests
+
 {
 	[TestClass]
 	public class DostawcaTesty

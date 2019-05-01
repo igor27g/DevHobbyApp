@@ -13,10 +13,11 @@ namespace DevHobby.BLL
 
     public class Dostawca
     {
+		#region Fields and properties
 		public int DostawcaId { get; set; }
 		public string NazwaFirmy { get; set; }
 		public string Email { get; set; }
-
+		#endregion
 
 		/// <summary>
 		/// Wysyla wiadomosc email, aby powitac nowego dostawce
